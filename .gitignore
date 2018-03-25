@@ -1,3 +1,7 @@
 .idea
 node_modules
 .env
+*.iml
+package-lock.json
+*.log
+package.json
